@@ -1,6 +1,6 @@
 package javaquestions;
 
-public class FibonnaciNumbers_DynamicProgramming {
+public class FibonnaciNumbers_Memoization {
 
 	public static void main(String[] args) {
 		System.out.println(getFibonnaci(10));

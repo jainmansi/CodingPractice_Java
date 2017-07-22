@@ -3,7 +3,7 @@ package javaquestions;
 public class DecodeWays {
 	
 	public static void main(String[] args) {
-		String s = "11011011123411";
+		String s = "110";
 		System.out.println(numDecodings(s));
 	}
 
